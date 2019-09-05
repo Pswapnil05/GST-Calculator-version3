@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GST calculator.iml" filepath="$PROJECT_DIR$/.idea/GST calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GST calculator.iml" filepath="$PROJECT_DIR$/GST calculator.iml" />
     </modules>
   </component>
 </project>

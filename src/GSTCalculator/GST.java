@@ -14,8 +14,7 @@ public class GST {
     ElectronicsItems z =new ElectronicsItems();
     z.elect_display();
 
-    display_Items_Amount f = new display_Items_Amount();
-    f.finalbill();
+
 
   }
 }
